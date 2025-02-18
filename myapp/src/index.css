@@ -1,0 +1,5 @@
+@import "tailwindcss";
+/* Reset styles */
+body{
+  background-color: #EEEEEE;
+}
